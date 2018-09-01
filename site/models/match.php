@@ -2,7 +2,7 @@
 /**
  * Match Model for Kleague Component
  * 
- * @package    Joomla.Tutorials
+ * @package   com_kleague
  * @subpackage Components
  * @link http://dev.joomla.org/component/option,com_jd-wiki/Itemid,31/id,tutorials:components/
  * @license		GNU/GPL
